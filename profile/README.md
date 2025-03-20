@@ -1,6 +1,6 @@
 # Welcome to Silicon Labs Software!
 
-This is the official software release platform for Silicon Labs. 
+This is the official software release platform for Silicon Labs. We will be moving content from SiliconLabs [https://github.com/siliconlabs](https://github.com/siliconlabs) to this account throughout 2025.
 
 ## Other Resources
 
