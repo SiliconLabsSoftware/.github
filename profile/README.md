@@ -9,3 +9,5 @@ This is the official software release platform for Silicon Labs. We will be movi
 - Find out about our events and products here: [https://www.silabs.com/](https://www.silabs.com/)
 - Visit our Developer Docs here: [https://docs.silabs.com/](https://docs.silabs.com/)
 - Find our training here: [https://www.silabs.com/training](https://www.silabs.com/training)
+- Report security vulnerability to Silicon Labs PSIRT: [https://www.silabs.com/security/report-security-vulnerability](https://www.silabs.com/security/report-security-vulnerability)
+
