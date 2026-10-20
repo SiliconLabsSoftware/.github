@@ -19,8 +19,12 @@ This is the official software release platform for Silicon Labs. We will be movi
 
 ### RTOS
 
-[RTOS](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Artos) | [Zephyr](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Azephyr) | [FreeRTOS](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3freertos)
+[RTOS](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Artos) | [Zephyr](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Azephyr)
 
 ### Platform
 
 [MCU](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Amcu) | [Security](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Asecurity) | [Machine Learning](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Amachine-learning)
+
+### Tools
+
+[Tools](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Atools)
