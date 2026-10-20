@@ -11,3 +11,16 @@ This is the official software release platform for Silicon Labs. We will be movi
 - Find our training here: [https://www.silabs.com/training](https://www.silabs.com/training)
 - Report security vulnerability to Silicon Labs PSIRT: [https://www.silabs.com/security/report-security-vulnerability](https://www.silabs.com/security/report-security-vulnerability)
 
+## Explore by technology:
+
+### Wireless
+
+[Amazon Sidewalk](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Aamazon-sidewalk) | [Bluetooth](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth) | [Bluetooth Classic](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth-classic) | [Bluetooth Low Energy](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth-le) | [Bluetooth Mesh](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth-mesh) | [Channel Sounding](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth-cs) | [AoX](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth-aox) | [Matter](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Amatter) | [OpenThread](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Aopenthread) | [Wi-Fi](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Awifi) | [Zigbee](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Azigbee) | [Z-Wave](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Azwave)
+
+### RTOS
+
+[RTOS](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Artos) | [Zephyr](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Azephyr) | [FreeRTOS](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3freertos)
+
+### Platform
+
+[MCU](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Amcu) | [Security](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Asecurity) | [Machine Learning](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Amachine-learning)
