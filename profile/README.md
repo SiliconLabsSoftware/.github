@@ -15,16 +15,16 @@ This is the official software release platform for Silicon Labs. We will be movi
 
 ### Wireless
 
-[Amazon Sidewalk](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Aamazon-sidewalk) | [Bluetooth](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth) | [Bluetooth Classic](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth-classic) | [Bluetooth Low Energy](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth-le) | [Bluetooth Mesh](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth-mesh) | [Channel Sounding](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth-cs) | [AoX](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth-aox) | [Matter](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Amatter) | [OpenThread](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Aopenthread) | [Wi-Fi](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Awifi) | [Zigbee](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Azigbee) | [Z-Wave](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Azwave)
+[Amazon Sidewalk](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Aamazon-sidewalk+fork%3Atrue) | [Bluetooth](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth+fork%3Atrue) | [Bluetooth Classic](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth-classic+fork%3Atrue) | [Bluetooth Low Energy](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth-le+fork%3Atrue) | [Bluetooth Mesh](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth-mesh+fork%3Atrue) | [Channel Sounding](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth-cs+fork%3Atrue) | [AoX](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Abluetooth-aox+fork%3Atrue) | [Matter](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Amatter+fork%3Atrue) | [OpenThread](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Aopenthread+fork%3Atrue) | [Wi-Fi](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Awifi+fork%3Atrue) | [Zigbee](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Azigbee+fork%3Atrue) | [Z-Wave](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Azwave+fork%3Atrue)
 
 ### RTOS
 
-[RTOS](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Artos) | [Zephyr](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Azephyr)
+[RTOS](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Artos+fork%3Atrue) | [Zephyr](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Azephyr+fork%3Atrue)
 
 ### Platform
 
-[MCU](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Amcu) | [Security](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Asecurity) | [Machine Learning](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Amachine-learning)
+[MCU](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Amcu+fork%3Atrue) | [Security](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Asecurity+fork%3Atrue) | [Machine Learning](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Amachine-learning+fork%3Atrue)
 
 ### Tools
 
-[Tools](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Atools)
+[Tools](https://github.com/search?q=org%3ASiliconLabsSoftware+topic%3Atools+fork%3Atrue)
