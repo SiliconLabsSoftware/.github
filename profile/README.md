@@ -3,7 +3,7 @@
 This is the official software release platform for Silicon Labs. We will be moving content from SiliconLabs [https://github.com/siliconlabs](https://github.com/siliconlabs) to this account.
 
 ## Contribute
-Silicon Labs is inviting its user base and the open source community to develop on Silicon Labs  application examples, collaborate through GitHub and contribute improvements that can be incorporated in future SDK releases. You contributions are welcomed here:  
+Silicon Labs is inviting its user base and the open source community to develop on Silicon Labs application examples, collaborate through GitHub, and contribute improvements that can be incorporated in future SDK releases. Your contributions are welcomed here:  
 [Arduino Core](https://github.com/SiliconLabsSoftware/arduino) | [Bluetooth LE apps](https://github.com/SiliconLabsSoftware/bluetooth-le-app) | [... and in many other repositories](https://github.com/search?q=topic%3Acommunity-contributions-accepted+org%3ASiliconLabsSoftware+fork%3Atrue&type=repositories)
 
 ## Other Resources
