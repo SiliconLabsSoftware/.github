@@ -1,10 +1,15 @@
 # Welcome to Silicon Labs Software!
 
-This is the official software release platform for Silicon Labs. We will be moving content from SiliconLabs [https://github.com/siliconlabs](https://github.com/siliconlabs) to this account throughout 2025.
+This is the official software release platform for Silicon Labs. We will be moving content from SiliconLabs [https://github.com/siliconlabs](https://github.com/siliconlabs) to this account.
+
+## Contribute
+Silicon Labs is inviting its user base and the open source community to develop on Silicon Labs  application examples, collaborate through GitHub and contribute improvements that can be incorporated in future SDK releases. You contributions are welcomed here:  
+[Arduino Core](https://github.com/SiliconLabsSoftware/arduino) | [Bluetooth LE apps](https://github.com/SiliconLabsSoftware/bluetooth-le-app) | [... and in many other repositories](https://github.com/search?q=topic%3Acommunity-contributions-accepted+org%3ASiliconLabsSoftware+fork%3Atrue&type=repositories)
 
 ## Other Resources
 
 - Contribute or use our Community projects here: [https://github.com/SiliconLabsSoftware/community-creations](https://github.com/SiliconLabsSoftware/community-creations)
+- Contributor License Agreement: [CLA](https://github.com/SiliconLabsSoftware/agreements-and-guidelines/blob/main/contributor_license_agreement.md)
 - Start a discussion on your cool project or your question here: [https://community.silabs.com/](https://community.silabs.com/)
 - Find out about our events and products here: [https://www.silabs.com/](https://www.silabs.com/)
 - Visit our Developer Docs here: [https://docs.silabs.com/](https://docs.silabs.com/)
